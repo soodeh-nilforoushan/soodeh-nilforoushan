@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on the NLP-Transformers repository.
-- 🌱 I’m currently learning the Transformers library for NLP.
+- 🌱 I’m currently learning an NLP course.
 - 🖥 tech Python, Machine Learning, NLP, Java, Google Cloud(GCP) and etc.
 
 
