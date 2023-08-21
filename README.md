@@ -11,12 +11,12 @@
 - 🖥 tech Python, Machine Learning, NLP, Java, Google Cloud(GCP) and etc.
 
 
-###💻 Skills
+### 💻 Skills
 
 - Machine Learning
 - NLP
 - Google Cloud (GCP)
-- Java
+
 
   
 
