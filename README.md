@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on the Recurrent Neural Neteork repository.
-- 🌱 I’m currently learning NLP.
+- 🌱 I’m currently improving my NLP skills.
 - 🖥 tech Python, Machine Learning, NLP, Java, Google Cloud(GCP) and etc.
 
 
