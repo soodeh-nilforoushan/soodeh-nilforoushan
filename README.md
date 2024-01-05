@@ -6,9 +6,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on the Recurrent Neural Neteork repository.
+- 🔭 I’m currently working on the Recurrent Neural Network repository.
 - 🌱 I’m currently improving my NLP skills.
-- 🖥 tech Python, Machine Learning, NLP, Java, Google Cloud(GCP) and etc.
+- 🖥 tech Python, Machine Learning, NLP, Java, Google Cloud(GCP), etc.
 
 
 ### 💻 Skills
